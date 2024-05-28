@@ -1,2 +1,2 @@
 # obs-transition
-Obs Transition
+file transisi dan file layout untuk obs
